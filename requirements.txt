@@ -1,6 +1,7 @@
-streamlit>=1.40,<2
+streamlit>=1.32,<2
 Pillow>=10.0
 gTTS>=2.5
 moviepy==1.0.3
-imageio-ffmpeg>=0.5
-openai>=1.50
+requests>=2.31
+openai>=1.30
+imageio-ffmpeg>=0.4.9

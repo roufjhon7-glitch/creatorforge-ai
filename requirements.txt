@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+Pillow>=10.0
+gTTS>=2.5
+moviepy==1.0.3
+imageio-ffmpeg>=0.5
+openai>=1.50
